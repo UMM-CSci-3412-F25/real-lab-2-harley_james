@@ -8,5 +8,9 @@
         "pthread",
         "pthreads",
         "REAMDE"
-    ]
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
 }
